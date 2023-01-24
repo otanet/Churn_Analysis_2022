@@ -1,0 +1,2 @@
+gender,age,married,numberofdependents,numberofreferrals,tenureinmonths,offer,phoneservice,avgmonthlylongdistancecharges,multiplelines,internetservice,internettype,avgmonthlygbdownload,onlinesecurity,onlinebackup,deviceprotectionplan,premiumtechsupport,streamingtv,streamingmovies,streamingmusic,unlimiteddata,contract,paperlessbilling,paymentmethod,monthlycharge,totalcharges,totalextradatacharges,totallongdistancecharges,totalrevenue
+1,40,1,0,5,1.367434307,1,1,-1.337223819,0,1,0,58,1,0,1,1,0,1,1,1,2,0,1,0.095714916,0.979074177,-0.280175003,-0.761986346,0.548729664
